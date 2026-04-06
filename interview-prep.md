@@ -7,13 +7,26 @@
 
 ## 1. Self-Introduction (2 minutes)
 
-> Hi, my name is Thao - Doan Thanh Thao. I'm currently a third-year student at the University of Information Technology, VNU-HCM, majoring in Computer Networks and Data Communication, with a GPA of 8.77 out of 10.
+> **Opening:**
+> Hi, my name is Thao - Doan Thanh Thao. I'm a third-year student at UIT VNU-HCM, studying Computer Networks and Data Communication. My GPA is 8.77/10.
 >
-> I'm really interested in backend development, especially with Java and Spring Boot. My most hands-on project is **EcoWalk** - a full-stack mobile application where I built the backend using Spring Boot and PostgreSQL, and the Android client in Java. In that project, I implemented the authentication module using Spring Security with stateless JWT tokens - both access and refresh tokens. I also developed the core features like Club management and Event listing as REST APIs, and connected the Android app to consume those APIs using Retrofit2. For the database layer, I used Hibernate JPA to persist data to a cloud PostgreSQL instance on Neon with SSL.
+> **Why Java / Backend:**
+> I enjoy backend development with Java and Spring Boot.
 >
-> Beyond backend, I've also explored infrastructure and observability - I've set up microservices with Docker Compose, integrated distributed tracing with OpenTelemetry and Jaeger, and even deployed a private cloud using Apache CloudStack.
+> **EcoWalk Project (main highlight):**
+> - My main project is **EcoWalk** - a mobile app built with **Spring Boot + PostgreSQL + Android (Java)**
+> - I built the **login system** using Spring Security with JWT tokens (access + refresh)
+> - I created **REST APIs** for features like Clubs and Events
+> - The Android app calls these APIs using **Retrofit2**
+> - Data is stored in **cloud PostgreSQL (Neon)** using **Hibernate JPA**
 >
-> I'm looking for an internship where I can deepen my Java and backend skills in a real-world team environment, and I believe this position is a great fit for that. Thank you.
+> **Other experience:**
+> - Set up **microservices with Docker Compose**
+> - Used **OpenTelemetry + Jaeger** for tracing requests across services
+> - Deployed a **private cloud** using Apache CloudStack
+>
+> **Closing:**
+> I'm looking for an internship to grow my Java and backend skills in a real team. I think this position is a great fit. Thank you.
 
 ---
 
