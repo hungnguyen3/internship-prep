@@ -10,8 +10,8 @@
 > **Opening:**
 > Hi, my name is Thao - Doan Thanh Thao. I'm a third-year student at UIT VNU-HCM, studying Computer Networks and Data Communication. My GPA is 8.77/10.
 >
-> **Why Java / Backend:**
-> I enjoy backend development with Java and Spring Boot.
+> **Why Software Development:**
+> My background is in **networking and communication**, so I'm still early in my software development journey. But through personal projects, I've grown very interested in backend development with **Java and Spring Boot** - and I'm eager to learn more in a real team.
 >
 > **EcoWalk Project (main highlight):**
 > - My main project is **EcoWalk** - a mobile app built with **Spring Boot + PostgreSQL + Android (Java)**
